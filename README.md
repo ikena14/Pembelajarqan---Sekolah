@@ -1,2 +1,2 @@
 # Pembelajaran---Sekolah
-Pembelajaran Sekolah Membahas Ruang Lingkup Konputer Serta Pengenalan
+Pembelajaran Sekolah Membahas Ruang Lingkup Konputer Serta Pengenalannya
